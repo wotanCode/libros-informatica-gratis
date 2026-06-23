@@ -1,49 +1,49 @@
 Repository Collection Notice License (RCNL)
 
-1. Naturaleza del repositorio
+1. Nature of the Repository
 
-Este repositorio es una recopilación de documentos, libros, manuales y recursos relacionados con programación e informática obtenidos de fuentes públicas y/o distribuidos bajo licencias que permiten su libre acceso, uso o redistribución.
+This repository is a collection of documents, books, manuals, and resources related to programming and computer science obtained from public sources and/or distributed under licenses that allow free access, use, or redistribution.
 
-Este repositorio funciona únicamente como un índice, colección o medio de organización de dichos recursos.
+This repository functions solely as an index, collection, or organizational medium for such resources.
 
-2. Licencias individuales
+2. Individual Licenses
 
-Cada archivo, libro, documento o recurso incluido dentro de este repositorio mantiene su propia licencia original.
+Each file, book, document, or resource included in this repository retains its original license.
 
-La licencia aplicable a cada recurso será siempre la indicada por su respectivo autor, editorial, organización o archivo de origen.
+The license applicable to each resource shall always be the one specified by its respective author, publisher, organization, or original source.
 
-Las licencias individuales pueden incluir, pero no están limitadas a:
+Individual licenses may include, but are not limited to:
 
 MIT License
 Apache License
 GNU General Public License (GPL)
 Creative Commons
-Copyleft
-Licencias educativas
-Licencias propias de cada autor
+Copyleft Licenses
+Educational Licenses
+Proprietary Author Licenses
 
-La presencia de un recurso dentro de este repositorio no modifica, reemplaza ni amplía los términos de su licencia original.
+The inclusion of a resource in this repository does not modify, replace, or extend the terms of its original license.
 
-3. Ausencia de licencia global de contenido
+3. No Global Content License
 
-Este repositorio como conjunto no otorga derechos adicionales sobre los archivos contenidos.
+This repository, as a whole, does not grant any additional rights over the files it contains.
 
-La licencia de este repositorio únicamente regula la organización, estructura y documentación creada para mantener esta colección.
+The repository license only governs the organization, structure, and documentation created specifically to maintain this collection.
 
-Para utilizar, modificar, copiar o redistribuir un recurso específico, el usuario debe consultar y respetar la licencia asociada a dicho recurso.
+To use, modify, copy, or redistribute a specific resource, users must consult and comply with the license associated with that resource.
 
-4. Responsabilidad del usuario
+4. User Responsibility
 
-El usuario es responsable de verificar los términos legales correspondientes antes de utilizar cualquier material contenido en este repositorio.
+Users are responsible for verifying the applicable legal terms before using any material contained in this repository.
 
-El propietario del repositorio no garantiza que todos los recursos mantengan las mismas condiciones legales ni asume responsabilidad por el uso que terceros hagan de dichos materiales.
+The repository owner does not guarantee that all resources share the same legal conditions and assumes no responsibility for how third parties use such materials.
 
-5. Contribuciones
+5. Contributions
 
-Cualquier contribución realizada a este repositorio deberá respetar las licencias originales de los materiales añadidos.
+Any contribution made to this repository must respect the original licenses of the materials being added.
 
-Los colaboradores no deben incluir materiales que no tengan una licencia clara o permiso de redistribución.
+Contributors must not include materials that lack a clear license or redistribution permission.
 
-6. Uso del repositorio
+6. Repository Usage
 
-El código, scripts, estructura, documentación y archivos creados específicamente para este repositorio pueden estar sujetos a una licencia distinta indicada por separado.
+The code, scripts, structure, documentation, and files created specifically for this repository may be subject to a separate license indicated independently.
